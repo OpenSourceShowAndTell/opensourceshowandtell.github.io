@@ -31,6 +31,9 @@ footer, header, hgroup, menu, nav, section {
 body {
   line-height: 1;
 }
+header {
+  text-align: center;
+}
 ol, ul {
   list-style: none;
 }
@@ -53,11 +56,11 @@ body {
   font-size: 15px;
   font-family: Arial, Arial, Helvetica, sans-serif;
   line-height: 1.5;
-  background: #D1D1D1;
+  background: rgb(39, 170, 225);
 }
 
 a {
-  color: #63a52a;
+  color: rgb(73, 197, 177);
   text-decoration: none;
   -webkit-transition: color ease-in-out 0.3s;
 }
@@ -89,7 +92,7 @@ h1.title {
 
 p.tagline {
   padding: 20px 20px 0;
-  color: #fff;
+  color: rgb(41, 52, 62);
   font-size: 17px;
 }
 

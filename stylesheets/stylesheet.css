@@ -32,6 +32,8 @@ body {
 }
 header {
   text-align: center;
+  min-width: 675px;
+  max-width: 100%;
 }
 ol, ul {
   list-style: none;

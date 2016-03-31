@@ -75,8 +75,12 @@ h1.title {
   text-align: center;
 }
 
+code {
+  font-size: 11px;
+}
+
 .customheader {
-  background: url(https://s3-us-west-2.amazonaws.com/elof/opensourceshowtell/OSSATSF2015.png) 50% 50% no-repeat;
+  background: url(http://s3-us-west-2.amazonaws.com/elof/opensourceshowtell/Open-Source-Show-%26-Tell.png) 50% 50% no-repeat;
   height: 222px;
   text-align: center;
   min-width: 675px;
